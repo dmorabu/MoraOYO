@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moraoyo/static/css/main.154978ed.css",
+    "main.js": "/moraoyo/static/js/main.1f19c45d.js",
+    "static/js/373.ba606457.chunk.js": "/moraoyo/static/js/373.ba606457.chunk.js",
+    "index.html": "/moraoyo/index.html",
+    "main.154978ed.css.map": "/moraoyo/static/css/main.154978ed.css.map",
+    "main.1f19c45d.js.map": "/moraoyo/static/js/main.1f19c45d.js.map",
+    "373.ba606457.chunk.js.map": "/moraoyo/static/js/373.ba606457.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154978ed.css",
+    "static/js/main.1f19c45d.js"
+  ]
+}
