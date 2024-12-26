@@ -2,11 +2,12 @@
   "name": "moraoyo",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://dmorabu.github.io/moraoyo",
+  "homepage": "https://dmorabu.github.io/moraoyo",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.1",
     "react-scripts": "5.0.1"
   },
   "scripts": {
@@ -15,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
