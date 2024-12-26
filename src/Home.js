@@ -36,7 +36,7 @@ function Home() {
     if (!token) return;
     // Construct the UR
     const queryString = `?date=${encodeURIComponent(date)}&startTime=${encodeURIComponent(startTime)}&endTime=${encodeURIComponent(endTime)}`;
-    const url = `http://localhost:4000/rooms${queryString}`;
+    const url = `https://backend-eq30.onrender.com/rooms${queryString}`;
     // console.log(queryString);
     // console.log("Request URL:", url);  // Log the request URL for debugging
   

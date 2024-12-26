@@ -20,7 +20,7 @@ const Signup = () => {
     };
 
     try {
-      const response = await axios.post('http://localhost:5000/signup', userData);
+      const response = await axios.post('https://backend-eq30.onrender.com/signup', userData);
       console.log(response.data.message);
       navigate("/login");
     } catch (error) {
